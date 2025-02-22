@@ -1,4 +1,4 @@
-# 小傅哥项目： OpenAi 代码评审.
+# XXX项目： OpenAi 代码评审.
 ### 😀代码评分：60
 #### 😀代码逻辑与目的：
 该代码片段似乎是用于生成一个包含特定文本和git diff字符串的ChatCompletionRequestDTO对象，用于OpenAi代码评审服务。
